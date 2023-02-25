@@ -4,6 +4,7 @@
 - Modulo 2 - Criando Interfaces & Navegação
 - Desafio 02 - Praticando os conceitos do React Native - **Daily Diet**
 
+![image](https://user-images.githubusercontent.com/62652109/221329276-fbb6799a-44a6-4d58-9717-d4f2806ab889.png)
 
 ## :computer: Sobre o projeto
 
